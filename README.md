@@ -1,5 +1,6 @@
-# React Template
+# Joke Generator
 
-Use this template to get up and running quickly on projects. 
-- For setting up this template, [follow these instructions](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-4-react/chapters/react-setup.md).
-- [Steps to deploy](https://github.com/nss-nightclass-projects/REACT-Deployment-Netlify)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9f10ec9-f769-430a-b0a1-cf2891b016d0/deploy-status)](https://app.netlify.com/sites/cs-joke-generator/deploys)
+
+## Screenshot
+<img src="/assets/joke.png"/>
