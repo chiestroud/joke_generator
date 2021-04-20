@@ -9,11 +9,15 @@ https://app.netlify.com/sites/cs-learn-api/overview
 
 
 ## Screenshot
+
 First Screen
+
 <img src="src/assets/joke.png"/>
 
 After you click "Get A Joke" button
+
 <img src="src/assets/joke2.png"/>
 
 After you click "Get Punchline" button
+
 <img src="src/assets/joke3.png"/>
